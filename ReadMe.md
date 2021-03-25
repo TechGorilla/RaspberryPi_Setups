@@ -93,3 +93,28 @@ SD card slot |
 ![rpi_pinout](img/Raspberry-pi-pinout.jpg)
 
 ------------------------------------------------
+# Installing the OS to the SD card
+Get the OS (Operating System) image you want to install from the official website: [Raspberry Pi OS](https://www.raspberrypi.org/software/operating-systems/). \
+Keep in mind the hardware limitations of the Pi you are using when choosing the system. Being too greedy will only lead to a frustrating experience. Also the SD card should be a verified one as some instances of the pi not booting are due to incompatible SD cards.\
+To write the chosen OS to the SD card use the [Raspberry Pi Imager](https://www.raspberrypi.org/software/). You could skip the first step as the Pi Imager allows you to download the OS directly during the installation, but that makes the process **MUCH** longer.\
+As a personal preference I usually format the SD cards to EXFAT not FAT32.\
+
+***Pi Imager default screen*** \
+![default_screen](img/Screenshot%202021-03-21%20090302.png)\
+Select "CHOOSE OS" option first to add the OS to install.
+
+***Operating System selection pop out window***\
+![install_OS](img/Screenshot%202021-03-21%20100713.png)\
+To install the downloaded image scroll to the very bottom and select "Use custom".\
+(In this example I'm installing ***Ubuntu 20.10 Server***.)
+
+***SD Card selection pop out window***\
+![SD_Card](img/Screenshot%202021-03-21%20155439.png)\
+Here a 323Gb card is detected.
+
+***Writing the OS to the card***\
+![Writing](img/Screenshot%202021-03-23%20195510.png)\
+This process takes around 10mn depending on your system RAM.
+
+***All set***\
+![Done](img/Screenshot%202021-03-23%20200247.png)
