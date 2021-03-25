@@ -6,8 +6,8 @@ Several projects I will be working on, will use the Rpi board so for the sake of
 The boards I own and use are:
 * [**Raspberry Pi 4 model B 8gb**](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/specifications/)
 
-Technical Specifications |
---------------------------
+Technical Specifications
+|--------------------------|
 Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz |
 VideoCore VI 3D graphics core |
 8GB LPDDR4-3200 SDRAM |
@@ -29,8 +29,8 @@ GPIO Pinout
 
 * [**Raspberry Pi Zero W**](https://www.raspberrypi.org/products/raspberry-pi-zero-w/)
 
-Technical Specifications |
---------------------------
+Technical Specifications 
+|--------------------------|
 Size: 66 x 30.5 x 5 mm |
 Weight: 9 grams |
 Broadcom BCM2835, 1GHz, single-core ARM1176JZF-S CPU |
@@ -51,8 +51,8 @@ Micro SD card slot |
 
 * [**Raspberry Pi 2 model B**](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/)
 
-Technical Specifications |
---------------------------
+Technical Specifications 
+|--------------------------|
 Size: 85.6 x 56.5 x 17 mm |
 Weight: 45g |
 Broadcom BCM2836, 900MHz quad-core ARM Cortex-A7 CPU |
@@ -73,8 +73,8 @@ Micro SD card slot |
 
 * **Raspberry pi 1 model B** (_discontinued_)
   
-Technical Specifications |
---------------------------
+Technical Specifications 
+|--------------------------|
 Size: 85.6 x 56.5 x 17 mm |
 Weight: 45g |
 Broadcom BCM2835, 700MHz single core ARM1176JZF-S CPU |
